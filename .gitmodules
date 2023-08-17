@@ -5,5 +5,5 @@
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
 [submodule "themeshyde"]
-	path = themes/hyde
+	path = themeshyde
 	url = https://github.com/spf13/hyde.git
